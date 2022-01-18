@@ -127,6 +127,17 @@
         "sociability"
       ],
       "id": "12"
+    },
+    {
+      "name": "ZULI",
+      "species": "cyclotis",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "loving",
+        "goofy"
+      ],
+      "id": "13"
     }
   ]
 }
